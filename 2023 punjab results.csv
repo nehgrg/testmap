@@ -1,0 +1,5 @@
+year,state,state_po,state_fips,state_cen,state_ic,district,office,stage,runoff,special,candidate,party,writein,mode,candidatevotes,winner,totalvotes,unofficial,version,fips
+2023,Punjab,CA,6,93,71,Gurdaspur,US House,gen,NA,FALSE,Doug La Malfa,BJP,FALSE,total,160046,TRUE,291594,FALSE,20200424,693711
+2023,Punjab,CA,6,93,71,Ferozepur,US House,gen,NA,FALSE,Jared Huffman,BJP,FALSE,total,243081,TRUE,315657,FALSE,20200424,693712
+2023,Punjab,CA,6,93,71,Ludhiana,US House,gen,NA,FALSE,John Garamendi,CONG,FALSE,total,134875,TRUE,232251,FALSE,20200424,693713
+2023,Punjab,CA,6,93,71,Fatehgarh Sahib,US House,gen,NA,FALSE,Tom McClintock,CONG,FALSE,total,184401,TRUE,340654,FALSE,20200424,693714
